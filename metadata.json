@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NutriTrack AI",
+  "description": "NutriTrack AI: Your personalized Indian food nutrition tracker and AI fitness assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
